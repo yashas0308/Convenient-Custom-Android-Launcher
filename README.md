@@ -35,7 +35,7 @@ to change the default launcher of your phone to the newly installed "LauncherDem
 
 ## SCREENSHOTS OF APPLICATION: 
 
-* **Step 01: _Changing Default Settings of Home Launcher that is as shown._<br/>**
+* **Step 01: _Changing Default Settings of Home Launcher that is as shown._<br/>**\
   ![](Snapshots/Screenshots/Snap_01.png)
 
 * **Step 02: _Swiping Up for App Drawer._<br/>**\
@@ -51,5 +51,5 @@ to change the default launcher of your phone to the newly installed "LauncherDem
   ![](Snapshots/Screenshots/Snap_05.png)
 
 * **Step 06: _Recommended Grid size for users of age group 50+._**\
-So that they can easily access important apps and clearly distinguish them<br/>.
+**_So that they can easily access important apps and clearly distinguish them_<br/>**.
   ![](Snapshots/Screenshots/Snap_06.png)
