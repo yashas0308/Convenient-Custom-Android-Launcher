@@ -35,21 +35,21 @@ to change the default launcher of your phone to the newly installed "LauncherDem
 
 ## SCREENSHOTS OF APPLICATION: 
 
-* **Step 01: _Changing Default Settings of Home Launcher that is as shown._**<br/><br/>
- - ![](Snapshots/Screenshots/Snap_01.png)
+* **Step 01: _Changing Default Settings of Home Launcher that is as shown._**<br/>
+  ![](Snapshots/Screenshots/Snap_01.png)
 
-* **Step 02: _Swiping Up for App Drawer._**\<br/><br/>
- - ![](Snapshots/Screenshots/Snap_02.png)
+* **Step 02: _Swiping Up for App Drawer._**\<br/>
+  ![](Snapshots/Screenshots/Snap_02.png)
 
-* **Step 03: _Adding App Shortcuts to Home._**\<br/><br/>
- - ![](Snapshots/Screenshots/Snap_03.png)
+* **Step 03: _Adding App Shortcuts to Home._**\<br/>
+  ![](Snapshots/Screenshots/Snap_03.png)
 
-* **Step 04: _Changing Wallpaper of Screen._**\<br/><br/>
- - ![](Snapshots/Screenshots/Snap_04.png)
+* **Step 04: _Changing Wallpaper of Screen._**\<br/>
+  ![](Snapshots/Screenshots/Snap_04.png)
 
-* **Step 05: _Changing Grid size of Home Screen._**\<br/><br/>
- - ![](Snapshots/Screenshots/Snap_05.png)
+* **Step 05: _Changing Grid size of Home Screen._**\<br/>
+  ![](Snapshots/Screenshots/Snap_05.png)
 
 * **Step 06: _Recommended Grid size for users of age group 50+._**\
-So that they can easily access important apps and clearly distinguish them.<br/><br/>
- - ![](Snapshots/Screenshots/Snap_06.png)
+So that they can easily access important apps and clearly distinguish them.<br/>
+  ![](Snapshots/Screenshots/Snap_06.png)
