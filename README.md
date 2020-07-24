@@ -50,7 +50,6 @@ to change the default launcher of your phone to the newly installed "LauncherDem
 * **Step 05: _Changing Grid size of Home Screen._**\
 ![](Snapshots/Screenshots/Snap_05.png)
 
-* **Step 06:** Grid size for users of age group 50+.\
-The Grid Size recommended for users age group of 50+\
+* **Step 06: _Recommended Grid size for users of age group 50+._**\
 So that they can easily access important apps and clearly distinguish them.
 ![](Snapshots/Screenshots/Snap_06.png)
