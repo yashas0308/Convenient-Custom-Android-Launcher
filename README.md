@@ -1,5 +1,6 @@
-# Android-Launcher-Demo
+# Convenient Custom Android Launcher
 This is an Convenient Custom Android Launcher made using Android Studio which is used to customize the homescreen of your smartphone.
+
 ## Objective: 
 The Aim was to provide an application for better utilization of a Smart Phone for the respective user age group.\
 Users above the age fifty and further have difficulty in looking for apps in their phone\
@@ -15,21 +16,21 @@ Launcher is the name given Android UI that lets users customize the Home Screen
 
 * This application is actually a replacement for the Phone's Default Launcher so\
 firstly once the user installs the app then he needs to Change the Default Launcher\
-from Setting to this Launcher then the user is ready to use this app.\
-* By doing the above step this app becomes the user's default Home Launcher.\
+from Setting to this Launcher then the user is ready to use this app.
+* By doing the above step this app becomes the user's default Home Launcher.
 * User can choose Wallpaper from his gallery and can just swipe up from bottom to\
-open the app drawer which contains the list of apps installed in the device.\
+open the app drawer which contains the list of apps installed in the device.
 * User can also create app shortcuts by selecting apps from his app drawer to his Home screen page.
 * User can also adjust the grid size of the home screen pages by editing in settings of\
 the Launcher, by editing it the icon size can be increased or decreased.
 
 ### TECH USED IN BUILDING:
 
-* Android Studio 3.8 with Java JDK -version 8 being installed.\
-* XML to edit the front end of the app and Layouts in Android Studio\
-* Finally Rendered apk is attached for this Repository "LauncherDemo.apk" of version 1\
+* Android Studio 3.8 with Java JDK -version 8 being installed.
+* XML to edit the front end of the app and Layouts in Android Studio.
+* Finally Rendered apk is attached for this Repository "LauncherDemo.apk" of version 1.
 * You can download and install this apk on your phone but to use it properly you need\
-to change the default launcher of your phone to the newly installed "LauncherDemo" in your settings.\
+to change the default launcher of your phone to the newly installed "LauncherDemo" in your settings.
 * Once installed you can use the above mentioned features in the application.
 
 ## SCREENSHOTS OF APPLICATION: 
