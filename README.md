@@ -24,7 +24,7 @@ open the app drawer which contains the list of apps installed in the device.
 * User can also adjust the grid size of the home screen pages by editing in settings of\
 the Launcher, by editing it the icon size can be increased or decreased.
 
-### TECH USED IN BUILDING:
+### TECH USED IN BUILDING AND HOW TO INSTALL THE APP:
 
 * Android Studio 3.8 with Java JDK -version 8 being installed.
 * XML to edit the front end of the app and Layouts in Android Studio.
