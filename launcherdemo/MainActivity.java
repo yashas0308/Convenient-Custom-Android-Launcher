@@ -123,10 +123,6 @@ public class MainActivity extends AppCompatActivity {
 
         installedAppList = getInstalledAppList();
 
-        /*for (int i = 0; i < drawerCOLS*drawerROWS;  i++){
-            installedAppList.add(new AppObject("",String.valueOf(i), getResources().getDrawable(R.drawable.ic_launcher_foreground)));
-            mDrawerGridView.setAdapter(new AppAdapter(getApplicationContext(),installedAppList));
-        }*/
         mDrawerGridView.setAdapter(new AppAdapter(this, installedAppList, cellHeight));
 
         mBottomSheetBehavior.setBottomSheetCallback(new BottomSheetBehavior.BottomSheetCallback() {
@@ -236,21 +232,13 @@ public class MainActivity extends AppCompatActivity {
         String imageUri = sharedPreferences.getString("imageUri", null);
         int numRow = sharedPreferences.getInt("numRow", 7);
         int numColumn = sharedPreferences.getInt("numColumn", 5);
-       /* int drawerROWS = sharedPreferences.getInt("drawerRow", 7);
-        int drawerCOLS = sharedPreferences.getInt("drawerCol", 5);
-*/
+
         if (this.numRow != numRow || this.numColumn != numColumn){
             this.numRow = numRow;
             this.numColumn = numColumn;
             initializeHome();
         }
 
-        /*if (this.drawerROWS != drawerROWS || this.drawerCOLS != drawerCOLS){
-            this.drawerROWS = drawerROWS;
-            this.drawerCOLS = drawerCOLS;
-            initializeDrawer();
-
-        }*/
         if(imageUri != null){
             mHomeScreenImage.setImageURI(Uri.parse(imageUri));
         }
